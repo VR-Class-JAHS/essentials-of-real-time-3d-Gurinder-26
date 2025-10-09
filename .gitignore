@@ -73,3 +73,18 @@ crashlytics-build.properties
 # Temporary auto-generated Android Assets
 /[Aa]ssets/[Ss]treamingAssets/aa.meta
 /[Aa]ssets/[Ss]treamingAssets/aa/*
+Assets/Herringbone_Brick_baseColor.png.meta
+Assets/Materials.meta
+Assets/Materials/Herringbone_Brick_baseColor.mat.meta
+Assets/Materials/Bouncy.physicMaterial.meta
+Assets/Scenes/Materials/BrickMaterial.mat
+Assets/Scenes/Materials/BrickMaterial.mat
+Assets/Scenes/Materials.meta
+Assets/Scenes/Materials.meta
+Assets/Scenes/Materials.meta
+Assets/Scenes/Materials/SolidBlue.mat.meta
+Assets/Scenes/Materials/BrickMaterial.mat
+Assets/Scenes/Materials/BrickMaterial.mat.meta
+Assets/Scenes/Materials/SolidBlue.mat
+Assets/Materials/Herringbone_Brick_baseColor.mat
+Assets/Materials/Bouncy.physicMaterial
